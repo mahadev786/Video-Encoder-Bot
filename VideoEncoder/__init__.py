@@ -1,4 +1,4 @@
-# VideoEncoder - a telegram bot for compressing/encoding videos in h264 format.
+# VideoEncoder - a telegram bot for Encoding videos in h264 format.
 # Copyright (c) 2021 WeebTime/VideoEncoder
 #
 # This program is free software: you can redistribute it and/or modify
@@ -49,7 +49,7 @@ audio = os.environ.get("AUDIO")
 crf = os.environ.get("CRF")
 
 SOURCE_MESSAGE = '''
-# VideoEncoder - a telegram bot for compressing/encoding videos in h264 format.
+# VideoEncoder - a telegram bot for Encoding videos in h264 format.
 # Copyright (c) 2021 WeebTime/VideoEncoder
 #
 # This program is free software: you can redistribute it and/or modify
